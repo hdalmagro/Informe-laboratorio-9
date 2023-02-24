@@ -24,39 +24,49 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
+9.5. MATERIAL Y EQUIPO REQUERIDO
 
+![image](https://user-images.githubusercontent.com/116781677/221187257-cc1356f4-130b-4a99-af0c-6e0ef69e6bf6.png)
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+9.6. PROCEDIMIENTO
 
 9.6.1. Transforme a su forma polar:
 
 ![image](https://user-images.githubusercontent.com/116819100/221082836-c6b27c9f-c210-460c-993a-ce09855bf82d.png)
 
-
-
+![image](https://user-images.githubusercontent.com/116781677/221187755-ef8238ac-c15d-426a-909f-d59f96e4808f.png)
+![image](https://user-images.githubusercontent.com/116781677/221187773-81e347e7-f81f-44e4-9f46-cbba04eea3f9.png)
+![image](https://user-images.githubusercontent.com/116781677/221187786-e36b5457-e776-4d18-b59c-9fc7679507d3.png)
+![image](https://user-images.githubusercontent.com/116781677/221187810-e23e76a6-4f90-48cf-be37-cccd19ae3f57.png)
 
 9.6.2 Transforme a su forma rectangular:
 
 ![image](https://user-images.githubusercontent.com/116819100/221082854-15f9d251-57e1-4bfa-b2d5-d3ca88d61b61.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/116781677/221187968-16634f11-af34-4d4a-ba93-a3276e61aeee.png)
+![image](https://user-images.githubusercontent.com/116781677/221187976-00c51f3b-44f5-432f-9a77-17bc85315f0f.png)
+![image](https://user-images.githubusercontent.com/116781677/221187993-97db7bd1-e0b8-43a3-93df-a06284deb611.png)
+![image](https://user-images.githubusercontent.com/116781677/221188006-bd24326b-1fee-408d-aa3e-6cdffc370471.png)
 
 9.6.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/116819100/221082865-759adfc0-ffd5-4543-bc7d-2c25efc0b835.png)
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/116781677/221188059-0c4ab44e-e11f-429b-a89a-d484e6ca36e0.png)
+![image](https://user-images.githubusercontent.com/116781677/221188072-69dc4b27-32d8-407c-92ed-81bc7e1ab92d.png)
+![image](https://user-images.githubusercontent.com/116781677/221188086-f4b79135-7f0f-4694-86ca-50619501456b.png)
 
 9.6.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+a) ![image](https://user-images.githubusercontent.com/116781677/221188779-816ba0bf-e9bf-454b-a4d3-d135e25d49e4.png)
 
+b) ![image](https://user-images.githubusercontent.com/116781677/221188809-58ad295f-c8e9-481b-956f-809d25fa802b.png)
 
+c) ![image](https://user-images.githubusercontent.com/116781677/221188845-76808418-7c7c-447d-b7f7-d07f35e40388.png)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------
 
 9.9. CONCLUCIONES
 
