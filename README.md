@@ -1,8 +1,4 @@
-
-
-
-
-
+![título](https://user-images.githubusercontent.com/116821721/221208269-0ce95b26-68cf-4a11-8e4e-0224dae69224.jpg)
 
 
 9.1. OBJETIVO GENERAL
